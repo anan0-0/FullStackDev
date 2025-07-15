@@ -39,7 +39,6 @@ section {
 .image-container img {
     width: 30%;
     height: auto;
-    border-radius: 50%;
     border: 3px solid #ccc;
 }
 
