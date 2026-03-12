@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f3f4f6;
+  text-align: center;
+}
+
+.nav-container {
+  background-color: #1e293b;
+  padding: 1rem 0;
+  text-align: center;
+}
+
+.navbar a {
+  color: white;
+  margin: 0 15px;
+  padding: 10px 15px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+.navbar a:hover {
+  color: #38bdf8;
+}
+
+.home-content {
+  text-align: center;
+  margin-top: 40px;
+  padding: 20px;
+  color: #1f2937;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
